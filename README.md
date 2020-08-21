@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Android Development**
 
-- 🌱 I’m currently learning **Full Stack Development (MEAN stacK)**
+- 🌱 I’m currently learning **Full Stack Development (MEAN Stac)**
 
 - 🤝 I’m looking for help with **new tech stack**
 
